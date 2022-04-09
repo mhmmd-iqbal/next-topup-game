@@ -1,7 +1,6 @@
 import Head from 'next/head';
 import { ReactNode } from 'react';
-import Navbar from './navbar';
-import Footer from './footer';
+import Sidebar from '../sidebar';
 
 interface LayoutPropsInterface {
     children: ReactNode
@@ -17,9 +16,8 @@ export default function layout(props: LayoutPropsInterface) {
         <title>Checkout StoreGG</title>
       </Head>
       <body>
-        <Navbar />
+        <Sidebar />
         <div>{children}</div>
-        <Footer />
       </body>
     </>
   );
