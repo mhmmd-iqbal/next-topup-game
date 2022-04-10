@@ -23,5 +23,6 @@ module.exports = {
     'react/jsx-filename-extension': [1, { extensions: ['.js', '.jsx', '.ts', '.tsx'] }],
     'react/react-in-jsx-scope': 'off',
     'react/function-component-definition': 'off',
+    'jsx-a11y/anchor-is-valid': 'off',
   },
 };

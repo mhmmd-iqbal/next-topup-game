@@ -1,4 +1,4 @@
-export default function footer() {
+export default function Footer() {
   return (
     <section className="footer pt-50">
       <footer>
@@ -60,7 +60,7 @@ export default function footer() {
                         Press
                         Release
 
-                      </a>
+                        </a>
                     </li>
                     <li className="mb-6">
                       <a href="/" className="text-lg color-palette-1 text-decoration-none">Terms of Use</a>
@@ -70,7 +70,7 @@ export default function footer() {
                         Privacy &
                         Policy
 
-                      </a>
+                        </a>
                     </li>
                   </ul>
                 </div>
@@ -82,21 +82,21 @@ export default function footer() {
                         Refund
                         Policy
 
-                      </a>
+                        </a>
                     </li>
                     <li className="mb-6">
                       <a href="/" className="text-lg color-palette-1 text-decoration-none">
                         Unlock
                         Rewards
 
-                      </a>
+                        </a>
                     </li>
                     <li className="mb-6">
                       <a href="/" className="text-lg color-palette-1 text-decoration-none">
                         Live
                         Chatting
 
-                      </a>
+                        </a>
                     </li>
                   </ul>
                 </div>
@@ -108,7 +108,7 @@ export default function footer() {
                         href="mailto: hi@store.gg"
                         className="text-lg color-palette-1 text-decoration-none"
                       >
-                        hi@store.gg
+                          hi@store.gg
 
                       </a>
                     </li>
@@ -117,19 +117,19 @@ export default function footer() {
                         href="mailto: team@store.gg"
                         className="text-lg color-palette-1 text-decoration-none"
                       >
-                        team@store.gg
+                          team@store.gg
 
                       </a>
                     </li>
                     <li className="mb-6">
                       <a
                         href="http://maps.google.com/?q=Pasific 12,
-                                    Jakarta Selatan"
+                                      Jakarta Selatan"
                         className="text-lg color-palette-1 text-decoration-none"
                       >
-                        Pasific
-                        12,
-                        Jakarta Selatan
+                          Pasific
+                          12,
+                          Jakarta Selatan
 
                       </a>
                     </li>
@@ -138,8 +138,8 @@ export default function footer() {
                         href="tel: 02111229090"
                         className="text-lg color-palette-1 text-decoration-none"
                       >
-                        021 - 1122 -
-                        9090
+                          021 - 1122 -
+                          9090
 
                       </a>
                     </li>
